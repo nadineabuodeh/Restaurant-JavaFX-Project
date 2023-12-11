@@ -1,0 +1,4 @@
+Siu mai,122,45,Siu mai.jpg,These dumplings are not sealed and have a cup-like appearance so you can see the minced pork or prawn filling inside
+Pai gwut,145,40,Pai gwut.jpg,It consists of steamed pork ribs.The pork rib tips are steamed with oil and while black beans
+Spring Rolls,133,48,Spring Rolls.jpg,A crisp appetizer where shredded veggies are encased in thin sheets and then fried golden
+Stir Fried Tofu with Rice,345,32,Stir Fried Tofu with Rice.jpg,A simple stir-fry with tofu and oriental sauces

@@ -1,0 +1,4 @@
+Cheese Burger,373,22,Cheese Burger.jpg,Fed ground beef-pickle juice-sweet hawaiian buns-cheddar
+Original Pizza,355,20,Original Pizza.jpg,Topped with mozzarella-ground beef-mushroom-jalapeno
+Honey Chicken,277,15,Honey Chicken.jpg,Grilled chicken combined with house special spicy
+Fried Oysters,198,17,Fried Oysters.jpg,Fried oysters with horseradish cocktail sauce

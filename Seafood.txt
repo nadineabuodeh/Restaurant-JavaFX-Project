@@ -1,0 +1,4 @@
+Sauce Crab,300,20,Sauce Crab.jpg,Saute shellfish in butter. Add white sauce and season with salt and pepper
+Squid Fried shrimp,350,30,Squid Fried shrimp.jpg,Shrimp-squid-curry powder-dijon mustard
+Rica-rica Green Scallops,400,35,Rica-rica Green Scallops.jpg,Butternut squash-brussels sprouts-sea scallops-balsamic
+Grilled Shrimp,200,25,Grilled Shrimp.jpg,Shrimp-soy sauce-chili garlic sauce-honey-olive oil

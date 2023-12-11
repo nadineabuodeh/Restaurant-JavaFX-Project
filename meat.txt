@@ -1,0 +1,4 @@
+Stuffed Flank Steak,120,50,StuffedFlankSteak.jpg,Flank steak-red wine vinegar-red bell peppers-parmesan
+Mutton Vadai,250,20,Mutton Vadai.jpg,Chana dal- mutton- garam masala powder-black gram
+Lamb Chops,200,35,Lamb Chops.jpg,Lamb chops-rosemary-olive oil-black pepper
+Country Ribs,150,30,Country Ribs.jpg,Country style ribs-apple cider vinegar-purple cabbage-pear

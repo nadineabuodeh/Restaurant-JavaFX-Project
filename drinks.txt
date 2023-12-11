@@ -1,0 +1,4 @@
+Margarita,45,15,Margarita.jpg,Tequila-Cointreau-Lime & Salt
+Fruit tingle,30,15,Fruit tingle.jpg,Vodka-Blue Curracao-Lemonmade & Raspberry
+Mojito,29,15,Mojito.jpg,White Rum-Mint & Fresh Lime
+White Lady,23,15,White Lady.jpg,White Rum-Pineapple & Coconut
